@@ -1,5 +1,5 @@
 
-###Your program should get the “key size” from the user in terms of number of bits (for instance, 
+#Your program should get the “key size” from the user in terms of number of bits (for instance, 
 #64, 128, etc). Based on the size, use Fermat or Miller-Rabin primality test algorithm to define 
 #your large prime number. You can use the existing programming packages to find a generator 
 #of your finite field. Your program should then initialize a pair of key, i.e., private and public keys. 

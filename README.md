@@ -8,7 +8,7 @@ Usage
 To run the code, simply execute the following command in your terminal:
 
 Copy code
-python elgamal.py
+python3 Assignment3.py
 
 The code will prompt you to enter the bit size for the ElGamal key, which determines the size of the prime number used in the encryption. Next, you will be asked to enter the plaintext message that you want to encrypt.
 
